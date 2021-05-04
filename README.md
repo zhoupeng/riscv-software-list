@@ -135,6 +135,7 @@ Parabola GNU/Linux-libre | [github](https://github.com/oaken-source/parabola-ris
 Ataraxia Linux | [github](https://github.com/ataraxialinux/ataraxia) |  | protonesso
 Slackware Linux | [github](https://github.com/fede2cr/slackware_riscv/) |  | Álvaro Figueroa (of Greencore Solutions)
 Ubuntu | [ubuntu.com](https://wiki.ubuntu.com/RISC-V) | | [xnox](https://launchpad.net/~xnox)
+openEuler | [openEuler RISC-V](https://gitee.com/openeuler/RISC-V) | MulanPSL-2.0 and each package's own license | [openEuler](https://gitee.com/openeuler), [ISCAS](http://www.iscas.ac.cn/)
 
 ## Real-time Operating Systems
 
